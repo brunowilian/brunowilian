@@ -13,6 +13,7 @@ exibir minhas linguagens usandas. no momento está desativada essa opcão.
   <!-- codigo para colocar o simbolo do java -->
   <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Bruno-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
   
    ##

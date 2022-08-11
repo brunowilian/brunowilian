@@ -15,6 +15,8 @@ exibir minhas linguagens usandas. no momento está desativada essa opcão.
   <img align="center" alt="Bruno-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
     <img align="center" alt="java Script" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Svelte"  height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg">
+     <img align="center" alt="Svelte"  height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+    
 </div>
   
    ##
